@@ -1,4 +1,4 @@
 /*
   X-Robots-Tag: noindex, nofollow, noarchive
-  Content-Security-Policy: frame-ancestors 'self'
+  Content-Security-Policy: frame-ancestors 'self' https://radar-xi-flax.vercel.app
   Referrer-Policy: no-referrer
